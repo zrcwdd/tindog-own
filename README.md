@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog tutorial project
